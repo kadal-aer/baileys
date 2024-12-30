@@ -1,5 +1,5 @@
 {
-  "name": "@al-e-dev/baileys",
+  "name": "@rynxd/baileys",
   "version": "6.7.9",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/al-e-dev/Baileys",
+  "homepage": "https://github.com/kadal-aer/baileys",
   "repository": {
-    "url": "git@github.com:al-e-dev/Baileys.git"
+    "url": "git@github.com:kadal-aer/baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
